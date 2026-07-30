@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-07-30T09:33:50+00:00",
+  "api_endpoint": "https://api.github.com/search/repositories",
+  "api_version": "2026-03-10",
+  "query": "topic:data-visualization language:python stars:>100",
+  "sort": "stars",
+  "order": "desc",
+  "requested_max_results": 20,
+  "actual_results": 20,
+  "per_page": 20,
+  "delay_seconds": 0.0,
+  "used_token": false,
+  "total_count_reported_by_github": 163,
+  "incomplete_results_reported_by_github": false
+}
